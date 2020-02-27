@@ -1,0 +1,1 @@
+27 Feb 2020 10:44:14,834 INFO main com.cg.iter.dao.PassengerDaoImpl - addpassengerPassenger [passengerType=business, passengerId=1234, passengerName=shivam, passengerEmail=shiv2gail]
